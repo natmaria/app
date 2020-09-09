@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NMP</string>
+    <string name="gerar_num">GERAR NÚMEROS</string>
+    <string name="mostrar_num">MOSTRAR NÚMEROS</string>
+    <string name="numeros">NÚMEROS =</string>
+    <string name="user_login">tq</string>
+    <string name="user_senha">tqs2nmp</string>
+    <string name="label_menu">Menu do Aplicativo</string>
+    <string name="label_btnGerar">Gerador de Números</string>
+    <string name="label_btnCalc">Calculadora</string>
+    <string name="user_logado">Usuário logado:</string>
+    <string name="label_calc">Calculadora</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="label_btnEventos">Eventos</string>
+    <string name="title_menu_ok">Salvar</string>
+    <string name="title_menu_cancel">Cancelar</string>
+    <string name="label_titulo_evento">Título:</string>
+    <string name="label_descricao_evento">Descrição:</string>
+    <string name="label_data_evento">Data:</string>
+    <string name="label_vagas_evento">Vagas:</string>
+    <string name="label_btnPalestrantes">Palestrantes</string>
+    <string name="label_nome_palestrante">Nome do Palestrante:</string>
+    <string name="label_palestrante_evento">Palestrante</string>
+
+</resources>
